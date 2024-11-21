@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    padding: 1rem;
+    background-color: #a96060;
+    justify-content: space-between;
+}
+
+.header .navlinks{
+    display: flex;
+    gap:.5rem;
+    list-style-type: none;
+}
